@@ -14,13 +14,13 @@ public class Nandkumar {
     public static void main(String args[]) {
 
         Nandkumar nandkumar = new Nandkumar();
-        nandkumar.Show(10, "Sonu");
-        nandkumar.Show("Sonu", 20);
+        nandkumar.Show(17, "Sonu");
+        nandkumar.Show("Sonu", 23);
 
-//        nandkumar.main(20);            // main method overload
-//    }
-//    public static void main(int m){
-//        System.out.println("999");
+        nandkumar.main(20);            // main method overload
+    }
+    public static void main(int m){
+        System.out.println("99");
 
     }
 }
